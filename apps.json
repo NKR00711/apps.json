@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Revo",
-      "bundleIdentifier": "com.SideStore.SideStore2",
+      "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "Revo Team",
       "versions": [
         {
