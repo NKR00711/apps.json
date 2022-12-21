@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/NKR00711/apps.json/main/apps.json",
   "apps": [
     {
-      "name": "SideStore",
+      "name": "SideStore pp",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "Revo Team",
       "versions": [
