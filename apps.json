@@ -1,6 +1,6 @@
 {
   "name": "Revo Offical",
-  "identifier": "com.SideStore.SideStor2e",
+  "identifier": "com.SideStore.SideStore2",
   "sourceURL": "https://raw.githubusercontent.com/NKR00711/apps.json/main/apps.json",
   "apps": [
     {
@@ -42,45 +42,6 @@
     }
   ],
   "news": [
-    {
-      "title": "Added More Sources!",
-      "identifier": "TrustedSource",
-      "caption": "Introducing PojavLauncher to SideStore!",
-      "tintColor": "912F8D",
-      "imageURL": "https://pbs.twimg.com/media/FjwYldzaYAAhqUS.jpg",
-      "url": "https://twitter.com/sidestore_io/status/1602182903450210305?s=46&t=_UKJO3_7BFa-fxf0F6jSHw",
-      "date": "2022-12-11",
-      "notify": true
-    },
-    {
-      "title": "Rick on the rocks",
-      "identifier": "rick",
-      "caption": "never gonna give ya rocks",
-      "tintColor": "912F8D",
-      "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "date": "2022-01-06",
-      "notify": false
-    },
-    {
-      "title": "#StandWithUkraine",
-      "identifier": "support-ukraine",
-      "caption": "Find out how you can help support those impacted by the Russian invasion.",
-      "tintColor": "003e80",
-      "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
-      "url": "https://linktr.ee/razomforukraine",
-      "date": "2022-03-01",
-      "notify": false
-    },
-    {
-      "title": "New to SideStore?",
-      "identifier": "updated-faq",
-      "caption": "Good luck!",
-      "tintColor": "8043FF",
-      "url": "https://faq.sidestore.io",
-      "date": "2050-07-28",
-      "notify": false
-    }
   ],
   "userInfo": {
     "patreonAccessToken": "uqoDoTxH8dY1ImE8tK76wxrzKk67gjyjBAcK8sD3RLU"
