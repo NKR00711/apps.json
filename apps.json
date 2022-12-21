@@ -1,11 +1,11 @@
 {
   "name": "Revo Offical",
-  "identifier": "com.SideStore.SideStore",
+  "identifier": "com.SideStore.SideStore2",
   "sourceURL": "https://raw.githubusercontent.com/NKR00711/apps.json/main/apps.json",
   "apps": [
     {
       "name": "Revo",
-      "bundleIdentifier": "com.SideStore.SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore2",
       "developerName": "Revo Team",
       "versions": [
         {
