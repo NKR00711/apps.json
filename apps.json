@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/NKR00711/apps.json/main/apps.json",
   "apps": [
     {
-      "name": "SideStore pp",
+      "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "Revo Team",
       "versions": [
@@ -21,7 +21,7 @@
       "versionDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
-      "iconURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/105070799.jpeg",
+      "iconURL": "http://gecoios.com/storage/2022/12/1024%C3%971024.png",
       "tintColor": "8043FF",
       "size": 5465976,
       "screenshotURLs": [
