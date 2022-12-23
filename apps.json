@@ -59,7 +59,7 @@
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "http://gecoios.com/storage/2022/12/1024%C3%971024.png",
-      "tintColor": "8043FF",
+      "tintColor": "54A8DD",
       "size": 5465976,
       "screenshotURLs": [
         "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
